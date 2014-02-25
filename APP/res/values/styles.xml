@@ -1,5 +1,13 @@
 <resources>
 
+    <color name="light_red">#f4364c</color>
+    <color name="comp_orange">#f47f35</color>
+    <color name="comp_purple">#f435aa</color>
+    <color name="tri_green">#4bf435</color>
+    <color name="tri_blue">#354bf4</color>
+    <color name="gray_40">#666666</color>
+    <color name="dark_black">#000000</color>
+    
     <!--
         Base application theme, dependent on API level. This theme is replaced
         by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
