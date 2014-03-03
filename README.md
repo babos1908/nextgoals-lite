@@ -1,4 +1,4 @@
-nextgoals-lite
+NextGoals-Lite
 ==============
 
-NextGoals Lite App
+Android APP
